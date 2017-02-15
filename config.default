@@ -1,0 +1,4 @@
+[cyder-api]
+user: user
+password: userspassword
+address: http://testaddress.com/url
