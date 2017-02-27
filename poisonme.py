@@ -5,7 +5,6 @@ import sys
 import os
 import ConfigParser
 import sanity
-import re
 
 def giveup(msg):
   sys.exit(msg)
