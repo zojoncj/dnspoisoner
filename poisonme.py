@@ -43,9 +43,6 @@ def sanitycheck(l):
         giveup(e)
   return l
 
-      
-
-
 def listmagic(b,w):
   b = set(b)
   w = set(w)
